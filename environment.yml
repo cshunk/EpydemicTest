@@ -1,0 +1,7 @@
+name: epydemic-test
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+prefix: J:\envs\epydemic-test
